@@ -1,14 +1,14 @@
 {
-  "intro": "Hi",
+  "intro": "",
   "heroPhoto": {
-    "src": "../../images/lego-dummy.png",
-    "alt": "My Photo"
+    "src": "",
+    "alt": ""
   },
   "image": {
-    "src": "../../images/waving-hand.png",
-    "alt": "Waving Hand Emoji"
+    "src": "",
+    "alt": ""
   },
-  "title": "I'm Saurav",
+  "title": "Hi, I'm Saurav",
   "subtitle": {
     "prefix": "Fullstack Javascript Developer",
     "suffix": "."
